@@ -70,10 +70,10 @@ public class ArithmeticOperations {
 ```
 
 ## OUTPUT:
-
+<img width="1252" height="354" alt="image" src="https://github.com/user-attachments/assets/b42fd06e-6ade-4df2-a3a3-8d25a65b9d7e" />
 
 
 ## RESULT:
 
-
+Therefore the program has been executed successfully.
 
